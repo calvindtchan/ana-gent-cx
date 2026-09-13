@@ -1,0 +1,11 @@
+node_modules/
+.local/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+auth.json
+storage-state.json
+playwright-report/
+test-results/
